@@ -19,7 +19,7 @@ readme_from     'lib/CatalystX/Declare.pm';
 tests           't/*.t';
 author_tests    'xt', 'examples/MyApp-Web/t';
 
-requires        'Carp',                             '1.08';
+requires        'Carp',                             '1.04';
 requires        'Class::Inspector',                 '1.24';
 requires        'Perl6::Junction',                  '1.40000';
 requires        'aliased',                          '0.30';
